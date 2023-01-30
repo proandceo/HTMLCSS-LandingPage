@@ -45,8 +45,8 @@ section {
 }
 
 .btn {
-    cursor: grab;
-    border: none;
+    cursor: pointer;
+    border: 0;
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 12px;
